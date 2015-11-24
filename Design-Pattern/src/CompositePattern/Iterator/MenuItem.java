@@ -49,7 +49,4 @@ public class MenuItem extends MenuComponent {
 		System.out.println(", " + getPrice());
 		System.out.println("     -- " + getDescription());
 	}
-//vv MenuItemCompositeV2Main
 }
-//^^ MenuItemCompositeV2Main
-//^^ MenuItemCompositeV2
